@@ -1,5 +1,6 @@
 # VCCIP02
 This repository should contain all ongoing project code for Vincentius Co-Operative Capital Initiative Prospectus 02
+
 Discord: https://discord.gg/QCjwRWx
 
 ## GOALS
