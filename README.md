@@ -8,6 +8,10 @@ In summary developers have to take profitable and back tested stratergies and re
 
 Useful links:
 TA-lib https://www.ta-lib.org/
+
 Bitmex MM bot https://github.com/BitMEX/sample-market-maker
+
 Bitmex API info https://www.bitmex.com/app/apiOverview
+
 Bitmex testnet https://testnet.bitmex.com/
+
